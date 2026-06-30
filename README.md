@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arfat.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://macb72.github.io/portfolio3/)
 [![Email](https://img.shields.io/badge/Email-shaikharafad72@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikharafad72@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-arfat-shaikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-arfat-shaikh/)
 
 </div>
 
@@ -88,6 +88,10 @@ Senior Frontend Engineer with **6+ years** of experience building React applicat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macb72&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" height="165" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=macb72&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🚀 Projects
@@ -107,6 +111,15 @@ Senior Frontend Engineer with **6+ years** of experience building React applicat
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=macb72&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9" alt="Contribution Graph" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macb72/macb72/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/macb72/macb72/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
